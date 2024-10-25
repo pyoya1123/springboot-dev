@@ -1,7 +1,7 @@
 spring:
   profiles:
-    include: dev, local
-#    active: dev  # dev? ?? ???? active??
+#    include: dev, local
+    active: local
   application:
     name: demoElasticBeansTalk
 
